@@ -9,7 +9,7 @@
   <div class="content">
     <span class="header">{{ include.page.title }}</span>
     <div class="meta">
-      <span class="date">{{ include.page.date | date_to_decimal }}</span>
+      <span class="date">{{ include.page.date | DecimalToDate (mylink.basedate, "%yyyy") }}</span>
     </div>
 
     <div class="description">
