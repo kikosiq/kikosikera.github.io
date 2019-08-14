@@ -10,8 +10,8 @@
 business analyses, adept at managing multiple projects, 
 providing excellent team support and 
 streamlining data explorations for major productivity gains.",
-    "location": {
-      "address": "Versatile professional with over 12 years of experience in business",
+   "location": {
+      "address": "",
       "postalCode": "96822",
       "city": "Honolulu",
       "countryCode": "USA",
@@ -40,7 +40,7 @@ streamlining data explorations for major productivity gains.",
       }
     ]
   },
-  "Interests": [
+  "interests": [
     {
       "name": "internet of things",
       "keywords": [
@@ -170,3 +170,4 @@ streamlining data explorations for major productivity gains.",
     }
   ]
 }
+
