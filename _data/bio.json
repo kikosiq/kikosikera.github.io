@@ -40,21 +40,21 @@ streamlining data explorations for major productivity gains.",
       }
     ]
   },
-  "": [
+  "interests": [
     {
-      "name": "Committed to strengthening interdepartmental collaboration, promoting high documentation standards with full proficiency in self-service analytics.",
+      "name": "internet of things",
       "keywords": [
         "Arduino",
         "TI MSP430"
       ]
     },
     {
-      "name": "Committed to strengthening interdepartmental collaboration, promoting high documentation standards with full proficiency in self-service analytics.",
+      "name": "data mining",
       "keywords": [
       ]
     },
     {
-      "name": "Committed to strengthening interdepartmental collaboration, promoting high documentation standards with full proficiency in self-service analytics.",
+      "name": "artificial intelligence",
       "keywords": [
       ]
     }
@@ -170,4 +170,3 @@ streamlining data explorations for major productivity gains.",
     }
   ]
 }
-
