@@ -1,19 +1,14 @@
 <!-- Used by theme-essays-builtin-1 -->
 
 <div class="card">
-  {% if include.page.image %}
-    <div class="image">
-      <img src="{{ site.baseurl }}/{{ include.page.image }}">
-    </div>
-  {% endif %}
   <div class="content">
     <span class="header">{{ include.page.title }}</span>
     <div class="meta">
-      <span class="date">{{ include.page.date }}</span>
+      <span class="date">{{ include.page.date | date_to_string }}</span>
     </div>
 
     <div class="description">
-      {{ include.page.summary }}
+      {{ include.page.content | markdownify | strip_html | truncatewords: 40 }}
     </div>
   </div>
 
@@ -23,4 +18,8 @@
         <div class="ui basic label">{{ label }}</div>
       {% endfor %}
     </div>
+  </div>
+
+  <a class="ui bottom attached button" href="{{ site.baseurl}}{{ include.page.url }}">Read More</a>
+</div>
 
