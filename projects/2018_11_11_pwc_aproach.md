@@ -11,7 +11,6 @@ labels:
 - Excel
 - PowerPoint
 - Business Intelligence
-- Customer
 - Decision-Making
 - Data Presentation
 
