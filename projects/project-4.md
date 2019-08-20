@@ -1,15 +1,21 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
+image: images/2018_11_11_pwc_aproach.jpg
 title: Cotton
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2018-11-11
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+- Data and Market Analysis
+- Excel
+- PowerPoint
+- Business Intelligence
+- Customer
+- Decision-Making
+- Data Presentation
+
+summary: PwC Approach Project
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
