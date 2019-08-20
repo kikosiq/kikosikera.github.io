@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/2018_11_11_pwc_aproach.jpg
-title: Cotton
+title: PwC Approach Project
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
 date: 2018-11-11
