@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/2018_11_11_pwc_aproach.jpg
 title: PwC Approach Project
-permalink: projects/cotton
+permalink: projects/PwC Approach Project
 # All dates must be YYYY-MM-DD format!
 date: 2018-11-11
 labels:
