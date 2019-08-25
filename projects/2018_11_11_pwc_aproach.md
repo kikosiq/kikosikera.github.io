@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/2018_11_11_pwc_aproach.jpg
-title: Data Analysis: PwC Approach 
+title: PwC Approach Project
 permalink: projects/projects/Power BI PwC Approach 
 # All dates must be YYYY-MM-DD format!
 date: 2018-11-11
