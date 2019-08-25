@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/2018_11_11_pwc_aproach.jpg
 title: PwC Approach Project, Data Analysis
-permalink: projects/projects/Power BI PwC Approach 
+permalink: projects/2018_11_11_pwc_aproach
 # All dates must be YYYY-MM-DD format!
 date: 2018-11-11
 labels:
