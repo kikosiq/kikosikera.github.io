@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: images/2018_11_11_pwc_aproach.jpg
-title: PwC Approach Project
-permalink: Data and Analysis: PwC Approach Project
+title: Data and Analysis and Presentation: PwC Approach Project
+permalink: projects/Data and Analysis and Presentation: PwC Approach Project
 # All dates must be YYYY-MM-DD format!
 date: 2018-11-11
 labels:
