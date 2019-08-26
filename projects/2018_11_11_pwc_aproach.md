@@ -28,7 +28,6 @@ It is a result of an in-depth analysis of the customer data including several va
 
 [Final Project](https://github.com/kikosikera/2018_11_11_pwc_aproach/blob/master/decks/Kiko_Siqueira_PwC_Final_%20Project.pdf)
 
-
 [Files](https://github.com/kikosikera/2018_11_11_pwc_aproach/tree/master/excel)
 
 
