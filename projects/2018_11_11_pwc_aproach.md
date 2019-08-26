@@ -18,7 +18,7 @@ summary: The project provides the best way to launch a new Home Security System 
 
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/2018_11_11_pwc_aproach_CS.jpg">
+<img class="ui image" src="kikosikera/2018_11_11_pwc_aproach/images/2018_11_11_pwc_aproach_05.jpg>
 
 The project provides the best way to launch a new Home Security System targeting socio-economic segments which have the highest new customers potential.
 
