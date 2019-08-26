@@ -22,7 +22,10 @@ summary: The project provides the best way to launch a new Home Security System 
 
 The project provides the best way to launch a new Home Security System targeting socio-economic segments which have the highest new customers potential.
 
-It is a result of an in-depth analysis of the customer data including several variables as a collected survey questions in 6759 markets of US cities/regions. 
+It is a result of an in-depth analysis of the customer data including several variables as a collected survey questions in 6759 markets of US cities/regions.
+
+[Project Proposal](https://github.com/kikosikera/2018_11_11_pwc_aproach/blob/master/decks/pwc_Project_Proposal.pdf)
+[Final Project](https://github.com/kikosikera/2018_11_11_pwc_aproach/blob/master/decks/Kiko_Siqueira_PwC_Final_%20Project.pdf)
 
 
 <hr>
