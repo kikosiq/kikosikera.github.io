@@ -24,11 +24,11 @@ The project provides the best way to launch a new Home Security System targeting
 
 It is a result of an in-depth analysis of the customer data including several variables as a collected survey questions in 6759 markets of US cities/regions.
 
-[Project Proposal](https://github.com/kikosikera/2018_11_11_pwc_aproach/blob/master/decks/pwc_Project_Proposal.pdf)
+[Tableau Multi-frame Storytelling](https://public.tableau.com/profile/cristiano.siqueira#!/vizhome/C5W6A1/FullStory)
 
-[Final Project](https://github.com/kikosikera/2018_11_11_pwc_aproach/blob/master/decks/Kiko_Siqueira_PwC_Final_%20Project.pdf)
+[Tableau Gallery](https://public.tableau.com/profile/cristiano.siqueira#!)
 
-[Files](https://github.com/kikosikera/2018_11_11_pwc_aproach/tree/master/excel)
+[Files](https://github.com/kikosikera/2019_07_10_tableau_pwc)
 
 
 <hr>
