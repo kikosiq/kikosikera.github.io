@@ -9,7 +9,7 @@ date: 2018-11-11
 labels:
 - Data and Market Analysis
 - Excel
-- PowerPoint
+- Decision-Making
 - Data Presentation
 - Pivot Tables
 - Power Query
