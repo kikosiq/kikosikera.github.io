@@ -3,9 +3,9 @@ layout: project
 type: project
 image: images/2019_09_06_py_pd_np_pj.jpg
 title: Data-driven decision making with Tableau
-permalink: projects/2019_07_10_tableau
+permalink: projects/2019_08_31_py_pan_np
 # All dates must be YYYY-MM-DD format!
-date: 2019-07-10
+date: 2019-08-31
 labels:
 - Dashboards and Storytelling
 - Tableau
@@ -20,7 +20,7 @@ summary: This Tableau project creates a multi-frame data story aiming to analise
 
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/2019_07_10_tableau_pwc_CS.jpg">
+<img class="ui image" src="{{ site.baseurl }}/images/2019_09_06_py_pd_np_pannel.jpg">
 
 This Tableau project creates a multi-frame data story aiming to analise new EG Home Security System markets. 
 
@@ -31,9 +31,9 @@ The steps of this analysis as well as subsequent conclusions will be shown in fo
 
 [Tableau Gallery](https://public.tableau.com/profile/cristiano.siqueira#!)
 
-[Data](https://github.com/kikosikera/2019_07_10_tableau_pwc/tree/master/csv)
+[Data](https://github.com/kikosikera/2019_08_31_py_pan_np/tree/master/data)
 
 
 <hr>
 
-Source: <a href="https://github.com/kikosikera/2019_07_10_tableau_pwc"><i class="large github icon"></i>kikosikera/2019_07_10_tableau_pwc</a>
+Source: <a href="https://github.com/kikosikera/2019_08_31_py_pan_np"><i class="large github icon"></i>kikosikera/2019_08_31_py_pan_np</a>
