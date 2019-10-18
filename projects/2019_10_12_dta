@@ -1,0 +1,42 @@
+---
+layout: project
+type: project
+image: images/2019_09_28_pd_np_mpl.jpg
+title: Developed Countries Healthcare System KPIs 
+permalink: projects/2019_09_28_pd_np_mpl
+# All dates must be YYYY-MM-DD format!
+date: 2019-09-28
+labels:
+- Key Performance Indicators
+- Kaggle
+- World Development Countries
+- Python
+- Bar Chart Race
+- Correlation
+- Tableau
+
+
+summary: This KPI Project will compare the most developed countries on indicators related to their Healthcare system. The study wants to point out which country performs better than others, whether there are trends in the time frame analyzed and find out hidden correlation between the indicators.
+
+---
+
+<img class="ui image" src="{{ site.baseurl }}/images/2019_09_28_pd_np_mpl_pannel.jpg">
+
+This KPI Project will compare the most developed countries on indicators related to their Healthcare system.
+
+The study wants to point out which country performs better than others, whether there are trends in the time frame analyzed and find out hidden correlation between the indicators.
+
+
+[Healthcare System KPIs  > Developed Countries > Jupiter Notebook > Data Analysis](https://colab.research.google.com/gist/kikosikera/fb825a72ac6d15d6dcc8ad6760d00fe4/2019_09_28_pd_np_mpl.ipynb?authuser=1)
+
+[Tableau Healthcare System KPI Dashboard](https://public.tableau.com/views/HECvsHBD/dashboard?:embed=y&:display_count=yes&publish=yes&:origin=viz_share_link)
+
+[Tableau Gallery](https://public.tableau.com/profile/cristiano.siqueira#!)
+
+[Kaggle Dataset](https://www.kaggle.com/worldbank/world-development-indicators)
+
+<iframe src='https://public.flourish.studio/visualisation/747494/embed' frameborder='0' scrolling='no' style='width:100%;height:400px;'></iframe><div style='width:100%!;margin-top:4px!important;text-align:center!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/747494/?utm_source=embed&utm_campaign=visualisation/747494' target='_top' style='text-decoration:none!important'></a></div>
+
+<hr>
+
+Source: <a href="https://github.com/kikosikera/2019_09_28_pd_np_mpl"><i class="large github icon"></i>kikosikera/2019_09_28_pd_np_mpl</a>
