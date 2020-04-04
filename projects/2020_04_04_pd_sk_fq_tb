@@ -2,10 +2,10 @@
 layout: project
 type: project
 image: images/2019_10_12_dta.jpg
-title: Bank CDM Data > Decision Tree Approach
-permalink: projects/2019_10_12_dta
+title: Demographics: Similarities > New York & Toronto
+permalink: projects/2020_04_04_pd_sk_fq_tb
 # All dates must be YYYY-MM-DD format!
-date: 2019-10-12
+date: 2020-04-04
 labels:
 - Decision Tree
 - Classification
@@ -20,8 +20,7 @@ labels:
 
 
 
-summary: A direct marketing campaign (phone calls) generates valuable data to be used for a banking institution. This study seeks results predicting if the client will subscribe (yes/no) to a term deposit through by building a Decision Tree.
-
+summary: For this project, Foursquare API is used to explore the data of New York City and Toronto, in terms of their neighbourhoods and boroughs. The study aims to find the 3 most common venue categories in order to judge the similarity or dissimilarity between the two cities' data combined.
 
 
 
