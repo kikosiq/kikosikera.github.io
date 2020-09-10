@@ -1,0 +1,137 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<base href="_w_b2726118/">
+    <script type="text/javascript">
+(function() {
+  var workerId = '_w_b2726118';
+  // remove base href if worker ID is in url
+  if (window.location.href.indexOf(workerId) > 0) {
+    document.querySelector('base').removeAttribute('href');
+  }
+})();
+</script>
+
+      <script type="text/javascript">
+      var __connect = {
+        shinyPre101: true
+      }
+      </script>
+      
+
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>  <script type="application/shiny-singletons"></script>  <script type="application/html-dependencies">json2[2014.02.04];jquery[1.12.4];babel-polyfill[6.7.2];shiny[0.14.2];ionrangeslider[2.1.2];strftime[0.9.2];bootstrap[3.3.7]</script><script src="shared/json2-min.js"></script>
+<script src="shared/jquery.min.js"></script>
+<script src="shared/babel-polyfill.min.js"></script>
+<link href="shared/shiny.css" rel="stylesheet" />
+<script src="shared/shiny.min.js"></script>
+<link href="shared/ionrangeslider/css/ion.rangeSlider.css" rel="stylesheet" />
+<link href="shared/ionrangeslider/css/ion.rangeSlider.skinShiny.css" rel="stylesheet" />
+<script src="shared/ionrangeslider/js/ion.rangeSlider.min.js"></script>
+<script src="shared/strftime/strftime-min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="shared/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+<script src="shared/bootstrap/js/bootstrap.min.js"></script>
+<script src="shared/bootstrap/shim/html5shiv.min.js"></script>
+<script src="shared/bootstrap/shim/respond.min.js"></script>  <title>Investigation of Exponential Distribution</title>
+
+<script src="__assets__/sockjs-0.3.min.js"></script>
+<script src="__assets__/shiny-server-client.min.js"></script>
+<script>preShinyInit({reconnect:true,reconnectTimeout:15000,disableProtocols:["xdr-streaming","xdr-polling","websocket"],transportDebugging:false,token:true,workerId:true,subappTag:true,extendSession:true,fixupInternalLinks:true});</script>
+<link rel="stylesheet" type="text/css" href="__assets__/rstudio-connect.css"/>
+</head>
+
+<body>
+<script type="text/javascript" src="/__static__/components/iframe-resizer/js/iframeResizer.contentWindow.min.js"></script>
+<script type="text/javascript" src="/__static__/frontend/scripts/shinyapps.frame.content.js"></script>
+<script type="text/javascript" src="/__static__/frontend/scripts/shinyapps.js"></script>
+
+  <div class="container-fluid">
+    <h2>Investigation of Exponential Distribution</h2>
+    <div class="row">
+      <div class="col-sm-4">
+        <form class="well">
+          <div class="form-group shiny-input-container">
+            <label class="control-label" for="sliderLambda">What is the lambda of the distribution?</label>
+            <input class="js-range-slider" id="sliderLambda" data-min="0.1" data-max="2" data-from="0.2" data-step="0.1" data-grid="true" data-grid-num="9.5" data-grid-snap="false" data-keyboard="true" data-keyboard-step="5.26315789473684" data-drag-interval="true" data-data-type="number" data-prettify-separator=","/>
+          </div>
+          <div class="form-group shiny-input-container">
+            <label class="control-label" for="sliderNsim">How many simulations do you want to conduct?</label>
+            <input class="js-range-slider" id="sliderNsim" data-min="500" data-max="2000" data-from="1000" data-step="100" data-grid="true" data-grid-num="7.5" data-grid-snap="false" data-keyboard="true" data-keyboard-step="6.66666666666667" data-drag-interval="true" data-data-type="number" data-prettify-separator=","/>
+          </div>
+          <div class="form-group shiny-input-container">
+            <label class="control-label" for="sliderNmean">How many exponentials do you want to take average from in each simulation?</label>
+            <input class="js-range-slider" id="sliderNmean" data-min="5" data-max="100" data-from="40" data-step="5" data-grid="true" data-grid-num="9.5" data-grid-snap="false" data-keyboard="true" data-keyboard-step="5.26315789473684" data-drag-interval="true" data-data-type="number" data-prettify-separator=","/>
+          </div>
+          <div class="form-group shiny-input-container">
+            <label for="seed">Input the seed for randomnization</label>
+            <input id="seed" type="number" class="form-control" value="1234" min="1" max="9999" step="1"/>
+          </div>
+          <div class="form-group shiny-input-container">
+            <div class="checkbox">
+              <label>
+                <input id="showSampleMean" type="checkbox" checked="checked"/>
+                <span>Show/Hide Sample Mean</span>
+              </label>
+            </div>
+          </div>
+          <div>
+            <button type="submit" class="btn btn-primary">Submit</button>
+          </div>
+        </form>
+      </div>
+      <div class="col-sm-8">
+        <div class="tabbable">
+          <ul class="nav nav-tabs">
+            <li class="active">
+              <a href="#tab-5071-1" data-toggle="tab" data-value="Results">Results</a>
+            </li>
+            <li>
+              <a href="#tab-5071-2" data-toggle="tab" data-value="Instructions">Instructions</a>
+            </li>
+          </ul>
+          <div class="tab-content">
+            <div class="tab-pane active" data-value="Results" id="tab-5071-1">
+              <h3>Exponential Distribution</h3>
+              <div id="plot1" class="shiny-plot-output" style="width: 100% ; height: 400px"></div>
+              <h3>Distribution of the Mean</h3>
+              <div id="plot2" class="shiny-plot-output" style="width: 100% ; height: 400px"></div>
+              <h3>Theoretical Mean:</h3>
+              <div id="theoMean" class="shiny-text-output"></div>
+              <h3>Sample Mean:</h3>
+              <div id="sampleMean" class="shiny-text-output"></div>
+              <h3>Theoretical Variance:</h3>
+              <div id="theoVar" class="shiny-text-output"></div>
+              <h3>Sample Variance:</h3>
+              <div id="sampleVar" class="shiny-text-output"></div>
+            </div>
+            <div class="tab-pane" data-value="Instructions" id="tab-5071-2">
+              <div class="col-sm-8"><h3>Welcome to my application</h3>
+
+<p>This application is based on the course project of statistical inference class of the data science specialisation.</p>
+
+<p>In that project, We investigate the exponential distribution in R and compare it with the Central Limit Theorem. More specificly, we study the distribution of 1000 averages of 40 exponentially distributed variables with lambda equal to 0.2.</p>
+
+<h3>Input</h3>
+
+<p>In this application, we are able to change the number of simulations (e.g. 1000), the number of exponentials we generate in each simulation (e.g. 40), the rate parameter lambda (e.g. 0.2), and the seed we use for randomnisation.</p>
+
+<p>The user can choose whether or not to show the sample mean on the plot.</p>
+
+<h3>Output</h3>
+
+<ul>
+<li>Two plots that show the distribution of the exponentials and the distribution of the means of the exponentials. The latter should be approximately normal.</li>
+<li>Both the theoretical and sample values of the mean and variance of the average of the exponentials, which should be very close.</li>
+<li>Up to user&#39;s choice, a red line indicating the sample mean can be shown on the second plot.</li>
+</ul>
+</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+
+</html>
