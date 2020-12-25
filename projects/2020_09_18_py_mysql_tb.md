@@ -22,7 +22,6 @@ labels:
 
 
 summary: Sensitivity analyses utilizing MySQL techniques and queries will be presented in this Data Science to develop a profitable plan for how Watershed should enter into the short-term rental market.
-Watershed Properties is a residential property management company.
 
 
 
