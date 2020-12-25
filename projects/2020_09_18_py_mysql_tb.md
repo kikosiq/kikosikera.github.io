@@ -13,7 +13,6 @@ labels:
 - Python
 - Seaborn
 - Pandas
-- Clustering
 - Tableau
 - Interactive Dashboard
 
