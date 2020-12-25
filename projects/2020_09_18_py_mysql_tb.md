@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/2020_04_04_ny_to.png
 title: Data Science with MySQL > Short-Term Analysis
-permalink: projects/2020_04_04_pd_sk_fq_tb
+permalink: projects/2020_09_18_py_mysql_tb
 # All dates must be YYYY-MM-DD format!
 date: 2020-09-18
 labels:
