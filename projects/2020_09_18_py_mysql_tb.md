@@ -9,10 +9,11 @@ date: 2020-09-18
 labels:
 - MySQL Queries
 - Big Data
-- ETL
 - Python
+- ETL
 - Seaborn
 - Pandas
+- Clustering
 - Tableau
 - Interactive Dashboard
 
