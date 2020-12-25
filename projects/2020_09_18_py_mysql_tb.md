@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/2020_09_18_py_mysql_tb_header.png
+image: images/2020_09_18_py_mysql_tb_pannel.png
 title: Data Science with MySQL > Short-Term Analysis
 permalink: projects/2020_09_18_py_mysql_tb
 # All dates must be YYYY-MM-DD format!
@@ -28,7 +28,7 @@ summary: Sensitivity analyses utilizing MySQL techniques and queries will be pre
 
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/2020_04_04_ny_to_pannel.png">
+<img class="ui image" src="{{ site.baseurl }}/images/2020_09_18_py_mysql_tb_header.png">
 
 For this project, Foursquare API is used to explore the data of New York City and Toronto, in terms of their neighbourhoods and boroughs. The study aims to find the 3 most common venue categories in order to judge the similarity or dissimilarity between the two cities' data combined.
 
