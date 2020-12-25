@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/2020_04_30.png
+image: images/2020_09_18_mm.png
 title: Data Science with MySQL > Short-Term Analysis
 permalink: projects/2020_09_18_py_mysql_tb
 # All dates must be YYYY-MM-DD format!
