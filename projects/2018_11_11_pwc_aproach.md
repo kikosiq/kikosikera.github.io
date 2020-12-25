@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/2018_11_11_pwc_aproach.jpg
+image: images/2018_11_11_pwc_aproach_mm.png
 title: PwC Approach Project, Data Analysis
 permalink: projects/2018_11_11_pwc_aproach
 # All dates must be YYYY-MM-DD format!
