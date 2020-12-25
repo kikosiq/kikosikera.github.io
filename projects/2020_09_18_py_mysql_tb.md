@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/2020_04_04_ny_to.png
-title: Data Science with MySQL > Short-Term Rental Analysis
+title: Data Science with MySQL > Short-Term Analysis
 permalink: projects/2020_04_04_pd_sk_fq_tb
 # All dates must be YYYY-MM-DD format!
 date: 2020-09-18
@@ -40,7 +40,7 @@ For this project, Foursquare API is used to explore the data of New York City an
 
 [Tableau Gallery](https://public.tableau.com/profile/cristiano.siqueira#!)
 
-[Data](https://github.com/kikosikera/2020_04_04_pd_sk_fq_tb/tree/master/data)
+[Data](https://github.com/kikosikera/2020_09_18_py_mysql_tb/upload/main/data)
 
  <a href="https://public.tableau.com/views/PresentationWatershedShort-TermRental_16073958243670/FullStory?:language=en&:display_count=y&:origin=viz_share_link" target="_blank">
   <img src="/images/2020_04_04_ny_to_tbl.png" style="width:714px;height:357px;"/>
@@ -49,4 +49,4 @@ For this project, Foursquare API is used to explore the data of New York City an
 
 <hr>
 
-Source: <a href="https://github.com/kikosikera/2020_04_04_pd_sk_fq_tb"><i class="large github icon"></i>kikosikera/2020_04_04_pd_sk_fq_tb</a>
+Source: <a href="https://github.com/kikosikera/2020_09_18_py_mysql_tb/upload/main/data"><i class="large github icon"></i>kikosikera/2020_04_04_pd_sk_fq_tb</a>
