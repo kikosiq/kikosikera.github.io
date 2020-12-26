@@ -42,7 +42,6 @@ For this project, Foursquare API is used to explore the data of New York City an
 
 [Data](https://github.com/kikosikera/2020_09_18_py_mysql_tb/upload/main/data)
 
-<hr>
 
  <a href="https://public.tableau.com/views/PresentationWatershedShort-TermRental_16073958243670/FullStory?:language=en&:display_count=y&:origin=viz_share_link" target="_blank">
   <img src="/images/2020_09_18_py_mysql_tb_pannel.png" style="width:714px;height:357px;"/>
