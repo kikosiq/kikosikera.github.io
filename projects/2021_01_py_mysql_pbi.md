@@ -32,7 +32,7 @@ summary: This project is going to describe the total number of medals collected 
 <img class="ui image" src="{{ site.baseurl }}/images/2021_01_py_mysql_pbi_pannel.png">
 
 This project is going to describe the total number of medals collected by teams with respect to the season of games, types of sports, and other important variables. It is also useful for those organizations of the world who compare and see the growth of Female participation with respect to male participation with changing times.
-It is worth mentioning that it is possible to define the winning percentage according to the height and weight of an athlete.
+It is worth mentioning that it is possible to define the winning percentage according to the athlete's height and weight. 
 
 
 [Jupyter Notebook > Sportstats Olympic Data Analysis > MySQL approach](https://colab.research.google.com/gist/kikosikera/567a454cdf7576382b600d89e494742c/2021_01_py_mysql_pbi.ipynb?authuser=1)
