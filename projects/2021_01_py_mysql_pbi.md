@@ -2,20 +2,21 @@
 layout: project
 type: project
 image: images/2021_01_py_mysql_pbi_pic.png
-title: Sportstats Olympic Data Analysis > MySQL approach
+title: Sportstats Olympic Data Analysis > MySQL
 permalink: projects/2021_01_py_mysql_pbi
 # All dates must be YYYY-MM-DD format!
 date: 2021-02-02
 labels:
-- Dependent
-- Independent
-- Variables
-- Python
 - Matplotlib
-- Sklearn
-- Statsmodels
+- Python
+- MySQL Queries
 - PowerBI
 - Dashboard
+- ETL
+- Exploratory Data Analysis
+- Statsmodels
+- Correlation
+- Evaluation
 
 
 
