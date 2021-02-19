@@ -7,15 +7,14 @@ permalink: projects/2021_02_15_py_sea_mtp_tb
 # All dates must be YYYY-MM-DD format!
 date: 2021-02-19
 labels:
-- MySQL Queries
-- Big Data
-- Python
-- ETL
-- Seaborn
-- Pandas
-- Clustering
 - Tableau
 - Interactive Dashboard
+- Seaborn
+- Folium
+- Tracking
+- Live
+- Clustering
+- Matplotlib
 
 
 
