@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: images/2020_09_18_py_mysql_tb_mm.png
-title: Data Science with MySQL > Short-Term Analysis
-permalink: projects/2020_09_18_py_mysql_tb
+title: Global COVID-19 Activity > Coronavirus Cases
+permalink: projects/2021_02_15_py_sea_mtp_tb
 # All dates must be YYYY-MM-DD format!
 date: 2021-02-19
 labels:
