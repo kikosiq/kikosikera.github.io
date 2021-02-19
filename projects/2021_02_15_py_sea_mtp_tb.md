@@ -30,7 +30,7 @@ summary: The pandemic has forced businesses to shift real-life activities to the
 
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/2020_09_18_py_mysql_tb_header.png">
+<img class="ui image" src="{{ site.baseurl }}/images/2021_02_15_py_sea_mtp_tb_pannel.png">
 
 The pandemic has forced businesses to shift real-life activities to the digital world.<br/>
 The following Project elaborates a Global COVID-19 tracker that includes a python data analysis, a tableau dashboard as well as an embedded live connection to trusted COVID-19 activity data.<br/>
