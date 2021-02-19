@@ -5,7 +5,7 @@ image: images/2020_09_18_py_mysql_tb_mm.png
 title: Data Science with MySQL > Short-Term Analysis
 permalink: projects/2020_09_18_py_mysql_tb
 # All dates must be YYYY-MM-DD format!
-date: 2020-09-18
+date: 2021-02-19
 labels:
 - MySQL Queries
 - Big Data
