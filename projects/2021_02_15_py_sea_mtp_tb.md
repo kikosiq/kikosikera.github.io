@@ -34,20 +34,20 @@ summary: Sensitivity analyses utilizing MySQL techniques and queries will be pre
 For this project, Foursquare API is used to explore the data of New York City and Toronto, in terms of their neighbourhoods and boroughs. The study aims to find the 3 most common venue categories in order to judge the similarity or dissimilarity between the two cities' data combined.
 
 
-[Jupyter Notebook > Applied Data Science with MySQL](https://colab.research.google.com/gist/kikosikera/2093dd7e8115a706f587d8c9fbb60a1d/2020_09_18_py_mysql_tb.ipynb?authuser=1)
+[Jupyter Notebook > Global COVID-19 Activity](https://colab.research.google.com/gist/kikosikera/20678b7cf6cd2d8ecde1a41ab992cebb/2021_02_15_py_sea_mtp_tb.ipynb?authuser=1)
 
-[Tableau Dashboard > Watershed Short Term Rental Analysis](https://public.tableau.com/profile/cristiano.siqueira#!/vizhome/PresentationWatershedShort-TermRental_16073958243670/FullStory)
+[Tableau Dashboard > Coronavirus (COVID-19) Cases](https://public.tableau.com/profile/cristiano.siqueira#!/vizhome/CoronavirusCOVID-19Cases_16132339141750/COVID-19GlobalView)
 
 [Tableau Gallery](https://public.tableau.com/profile/cristiano.siqueira#!)
 
-[Data](https://github.com/kikosikera/2020_09_18_py_mysql_tb/tree/master/data)
+[Data](https://github.com/kikosikera/2021_02_15_py_sea_mtp_tb/tree/master/data)
 
 
- <a href="https://public.tableau.com/views/PresentationWatershedShort-TermRental_16073958243670/FullStory?:language=en&:display_count=y&:origin=viz_share_link" target="_blank">
+ <a href="https://public.tableau.com/profile/cristiano.siqueira#!/vizhome/CoronavirusCOVID-19Cases_16132339141750/COVID-19GlobalView">
   <img src="/images/2020_09_18_py_mysql_tb_pannel.png" style="width:714px;height:357px;"/>
  </a>
 
 
 <hr>
 
-Source: <a href="https://github.com/kikosikera/2020_09_18_py_mysql_tb/upload/main/data"><i class="large github icon"></i>kikosikera/2020_04_04_pd_sk_fq_tb</a>
+Source: <a href="https://github.com/kikosikera/2021_02_15_py_sea_mtp_tb/tree/main/data"><i class="large github icon"></i>kikosikera/2020_04_04_pd_sk_fq_tb</a>
