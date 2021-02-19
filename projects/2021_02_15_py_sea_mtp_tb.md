@@ -11,16 +11,18 @@ labels:
 - Interactive Dashboard
 - Seaborn
 - Folium
-- Tracking
-- Live
-- Clustering
 - Matplotlib
+- Live
+- Tracking
+- Clustering
+- Bubbles
 
 
 
 
 
-summary: The following Project elaborates a Global COVID-19 tracker that includes a python data analysis, a tableau dashboard as well as an embedded live connection to trusted COVID-19 activity data.
+
+summary: The pandemic has forced businesses to shift real-life activities to the digital world. The following Project elaborates a Global COVID-19 tracker that includes a python data analysis, a tableau dashboard as well as an embedded live connection to trusted COVID-19 activity data.
 
 
 
