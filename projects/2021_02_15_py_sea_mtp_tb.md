@@ -31,9 +31,9 @@ summary: The following Project elaborates a Global COVID-19 tracker that include
 
 <img class="ui image" src="{{ site.baseurl }}/images/2020_09_18_py_mysql_tb_header.png">
 
-The pandemic has forced businesses to shift real-life activities to the digital world.
-The following Project elaborates a Global COVID-19 tracker that includes a python data analysis, a tableau dashboard as well as an embedded live connection to trusted COVID-19 activity data.
-This data is sourced from JHU CSSE (data.world) and it supports a better scenario understanding and its impacts on the organizations and their future decisions.
+The pandemic has forced businesses to shift real-life activities to the digital world.<br/>
+The following Project elaborates a Global COVID-19 tracker that includes a python data analysis, a tableau dashboard as well as an embedded live connection to trusted COVID-19 activity data.<br/>
+This data is sourced from JHU CSSE (data.world) and it supports a better scenario understanding and its impacts on the organizations and their future decisions.<br/>
 This data source is updated daily by 12 p.m. PT.
 
 
@@ -53,4 +53,4 @@ This data source is updated daily by 12 p.m. PT.
 
 <hr>
 
-Source: <a href="https://github.com/kikosikera/2021_02_15_py_sea_mtp_tb/tree/main/data"><i class="large github icon"></i>kikosikera/2020_04_04_pd_sk_fq_tb</a>
+Source: <a href="https://github.com/kikosikera/2021_02_15_py_sea_mtp_tb/tree/main/data"><i class="large github icon"></i>kikosikera/2021_02_15_py_sea_mtp_tb</a>
