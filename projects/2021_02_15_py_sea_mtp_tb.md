@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/2020_09_18_py_mysql_tb_mm.png
+image: images/2021_02_15_py_sea_mtp_tb_pic.png
 title: Global COVID-19 Activity > Coronavirus Cases
 permalink: projects/2021_02_15_py_sea_mtp_tb
 # All dates must be YYYY-MM-DD format!
@@ -21,7 +21,7 @@ labels:
 
 
 
-summary: Sensitivity analyses utilizing MySQL techniques and queries will be presented in this Data Science to develop a profitable plan for how Watershed should enter into the short-term rental market.
+summary: The following Project elaborates a Global COVID-19 tracker that includes a python data analysis, a tableau dashboard as well as an embedded live connection to trusted COVID-19 activity data.
 
 
 
@@ -31,7 +31,10 @@ summary: Sensitivity analyses utilizing MySQL techniques and queries will be pre
 
 <img class="ui image" src="{{ site.baseurl }}/images/2020_09_18_py_mysql_tb_header.png">
 
-For this project, Foursquare API is used to explore the data of New York City and Toronto, in terms of their neighbourhoods and boroughs. The study aims to find the 3 most common venue categories in order to judge the similarity or dissimilarity between the two cities' data combined.
+The pandemic has forced businesses to shift real-life activities to the digital world.
+The following Project elaborates a Global COVID-19 tracker that includes a python data analysis, a tableau dashboard as well as an embedded live connection to trusted COVID-19 activity data.
+This data is sourced from JHU CSSE (data.world) and it supports a better scenario understanding and its impacts on the organizations and their future decisions.
+This data source is updated daily by 12 p.m. PT.
 
 
 [Jupyter Notebook > Global COVID-19 Activity](https://colab.research.google.com/gist/kikosikera/20678b7cf6cd2d8ecde1a41ab992cebb/2021_02_15_py_sea_mtp_tb.ipynb?authuser=1)
@@ -44,7 +47,7 @@ For this project, Foursquare API is used to explore the data of New York City an
 
 
  <a href="https://public.tableau.com/profile/cristiano.siqueira#!/vizhome/CoronavirusCOVID-19Cases_16132339141750/COVID-19GlobalView">
-  <img src="/images/2020_09_18_py_mysql_tb_pannel.png" style="width:714px;height:357px;"/>
+  <img src="/images/2021_02_15_py_sea_mtp_tb_tableau.png" style="width:695px;height:385px;"/>
  </a>
 
 
